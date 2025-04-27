@@ -1,5 +1,3 @@
-import boleto;
-import GeneradorBoletoSimple;
 
 public class Displayer {
   public static void main(String[] args) {
