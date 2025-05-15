@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Sorteo",
+      "request": "launch",
+      "mainClass": "Sorteo",
+      "projectName": "desafio_programacion_java_2498412_4025d3f0"
+    },
+    {
+      "type": "java",
       "name": "Displayer3",
       "request": "launch",
       "mainClass": "Displayer3",
