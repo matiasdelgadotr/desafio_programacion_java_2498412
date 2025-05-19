@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FormateadorFecha",
+      "request": "launch",
+      "mainClass": "FormateadorFecha",
+      "projectName": "desafio_programacion_java_2498412_4025d3f0"
+    },
+    {
+      "type": "java",
       "name": "Sorteo",
       "request": "launch",
       "mainClass": "Sorteo",
