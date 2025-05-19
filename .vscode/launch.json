@@ -6,6 +6,14 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ContadorLetras",
+      "request": "launch",
+      "args": "Abrakadabrazalambkbm",
+      "mainClass": "ContadorLetras",
+      "projectName": "desafio_programacion_java_2498412_4025d3f0"
+    },
+    {
+      "type": "java",
       "name": "EdadExacta",
       "request": "launch",
       "mainClass": "EdadExacta",
