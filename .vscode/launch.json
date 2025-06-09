@@ -6,6 +6,17 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Matriz",
+      "request": "launch",
+      "args": [
+        "3",
+        "6"
+      ],
+      "mainClass": "Matriz",
+      "projectName": "desafio_programacion_java_2498412_4025d3f0"
+    },
+    {
+      "type": "java",
       "name": "ContadorLetras",
       "request": "launch",
       "args": "Abrakadabrazalambkbm",
